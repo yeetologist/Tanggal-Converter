@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tanggal Converter</string>
+    <string name="calculate_your">CALCULATE YOUR</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="aplikasi_konversi">Aplikasi Konversi</string>
+    <string name="ke_format_lain">Ke Format Lain</string>
+    <string name="pilih_tanggal">Pilih Tanggal</string>
+    <string name="tanggal_yang_dipilih">Tanggal Yang Dipilih</string>
+</resources>
